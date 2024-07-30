@@ -1,0 +1,19 @@
+idProduto,nomeProduto,tipoProduto,qtdProduto,valorProduto
+1,"Flor de Papoula",Flor,100,5
+2,"Rosa Solitária",Flor,100,12.9
+3,Orquidea,Planta,100,19.9
+4,"Tulipa ",Flor,100,10
+5,"Planta Carnivora Dioneia",Planta,100,30
+6,"Árvore da Felicidade",Planta,100,9.9
+7,"Carolina Soil",Substrato,100,12.9
+8,"All Garden Turfa 25kg",Substrato,100,29.9
+9,"Terra Vegetal Biomix 25kg",Substrato,100,26.5
+10,"Irrigador Circular","Acessório p/ Jardim",100,24.3
+11,"Kit Jardinagem Pás ded Aço","Acessório p/ Jardim",100,12.35
+12,"Regador Elefante","Acessório p/ Jardim",100,31
+13,"Buquê de Rosas",Buquê,100,90.25
+14,"Buquê de Flores Mistas",Buquê,100,59.9
+15,"Buquê de Rosas Eternas",Buquê,100,85
+16,"Sementes de Maria Joana",Sementes,100,5
+17,"Sementes de Vagem",Sementes,100,5
+18,"Sementes de Girassol",Sementes,100,7.92

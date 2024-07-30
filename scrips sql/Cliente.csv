@@ -1,0 +1,10 @@
+idCliente;CPF;nomeCliente;emailCliente;telefoneCliente;enderecoCliente;dataNasc;sexoCliente;estadoCivil
+1;111.111.111-11;Miguel;miguel123@gmail.com;(11)11111-1111;"Rua do Miguel 255";2005-05-07;Masculino;Casado
+2;222.222.222-22;Pedro;purplered@hotmail.com;(22)22222-2222;"Rua do Pedro 347";2005-04-17;Masculino;Solteiro
+3;333.333.333-33;Matheus;laurimatheus@gmail.com;(33)33333-3333;"Rua do Matheus 432";2000-08-16;Masculino;Solteiro
+4;444.444.444-44;Julio;boaventura@gmail.com;(44)44444-4444;"Rua da Larica 420";2001-03-12;Masculino;Solteiro
+5;555.555.555-55;Enzo;felladamae@gmail.com;(55)55555-5555;"Rua do Colirio 69";2002-11-11;Masculino;Solteiro
+6;666.666.666-66;Geovana;gigigantesca@gmail.com;(66)66666-6666;"Rua da Thais Carla 16t";2004-09-11;Masculino;Casado
+7;777.777.777-77;"Guilherme ";guiescoteiro@gmail.com;(77)77777-7777;"Rua Tarzan 23";2003-12-17;Masculino;Solteiro
+8;888.888.888-88;Gustavo;axlpokemon@gmail.com;(88)88888-8888;"Rua Squirtle Lane 007";2004-11-16;Masculino;Solteiro
+9;999.999.999-99;Jesus;amemreceba@gmail.com;(99)99999-9999;"Rua Calabreso Bora Bill 7";0001-12-25;Masculino;Solteiro
